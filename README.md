@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a fresh developer student looking forward to get into this world :cowboy_hat_face:
+I'm a fresh developer student looking forward to get into this world :cowboy_hat_face: :robot:
 
 <!--
 **BrandoEscobedo/BrandoEscobedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
